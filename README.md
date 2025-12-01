@@ -37,7 +37,7 @@ Our team adopted the Agile mindset, breaking the development lifecycle into **Sp
 * **Booking System:** Real-time reservation and payment simulation.
 * **Tracking:** View booking status and booking history.
 
-### 🛠 For Admin/Staff
+###  For Admin/Staff
 * **Dashboard:** Overview of daily/monthly bookings and revenue.
 * **Room Management:** CRUD operations (Create, Read, Update, Delete) for room data.
 * **Booking Management:** Approve, decline, or modify reservation requests.
